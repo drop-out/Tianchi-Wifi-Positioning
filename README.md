@@ -124,7 +124,7 @@
 多分类没有直接参与模型融合，而是作为特征输入到二分类模型中。
 
 
-## To-DO
+## To-Do
 
 1. WiFi文本挖掘
 2. DeepFM替代部分手工特征(如WiFI embedding-lookup+商户embedding-lookup)
