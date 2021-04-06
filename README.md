@@ -127,4 +127,4 @@
 ## To-Do
 
 1. WiFi文本挖掘
-2. DeepFM替代部分手工特征(如WiFI embedding-lookup+商户embedding-lookup)
+2. DeepFM替代部分手工特征(如WiFi embedding-lookup+商户embedding-lookup)
