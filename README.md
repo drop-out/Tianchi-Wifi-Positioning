@@ -1,6 +1,6 @@
 ## 赛题回顾
 
-这是一个室内定位问题。给定交易时的环境信息(包括GPS、wifi信息)，确定交易所处的商铺。
+这是一个室内定位问题。给定交易时的环境信息(包括GPS、wifi信息(bssid/信号强度/是否连接)、用户信息)，确定交易所处的商铺。
 
 详情可参见[比赛页面](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100068.5678.1.aa26a5emijaWb&raceId=231620)。
 
